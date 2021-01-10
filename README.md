@@ -25,3 +25,17 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+drag and drop package y virtual scroll
+npm install angular/cdk
+
+## Links de interes
+
+* Scrolling Virtual
+
+https://material.angular.io/cdk/scrolling/overview
+
+* Drag and Drop
+
+https://material.angular.io/cdk/drag-drop/overview
+
